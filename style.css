@@ -1,0 +1,37 @@
+p {
+    color: lime;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h1 {
+  color: lime;
+}
+
+.text {
+  color: lime;
+}
+
+.box {
+  width: 100px;
+  height: auto;
+  border: 1px solid lime;
+  padding: 50px;
+  margin: 10px;
+  color: lime;
+}
+
+.longbox {
+  width: auto;
+  height: auto;
+  border: 1px solid lime;
+  padding: 50px;
+  margin: 10px;
+  color: lime;
+}
