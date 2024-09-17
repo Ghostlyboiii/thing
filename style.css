@@ -51,4 +51,13 @@ h2763 {
 h2763 {
   color: lime;
 }
-    
+
+.Homebox {
+  width: 100px;
+  height: 50;
+  border: 1px solid lime;
+  padding: 40px;
+  margin: 10px;
+  color: lime;
+}
+
